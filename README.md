@@ -2,7 +2,7 @@
 This is a simple ToDo application built with Next.js and Prisma, using SQLite as the backend database. The app stores all data on the client side.
 
 ## Features
-1.Create new tasks with a title and optional description.
+1.Create new tasks with a title and optional description.<br>
 2.Mark tasks as completed.
 
 
